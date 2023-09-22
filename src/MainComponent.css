@@ -28,5 +28,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Set the height of the body to the full viewport height */
+    height: 100vh; 
   }
+
+  .message-container {
+    text-align: center;
+    margin-top: 60px; 
+}
+

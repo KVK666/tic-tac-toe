@@ -70,7 +70,9 @@ export default function MainComponent() {
             </div>
           ))}
         </div>
+        <div className="message-container">
         <p>{message}</p>
+        </div>
       </center>
     </div>
   );
